@@ -1,23 +1,28 @@
 # Something-I-Learn
 #C언어
+
 나도 코딩: 기본문법, 그리고 문법을 활용한 토이 프로젝트
 -https://youtu.be/q6fPjQAzll8
 
 #Python
+
 나도 코팅: 기본문법, 그리고 문법을 활용한 토이 프로젝트
 https://youtu.be/kWiCuklohdY
 Wikidocs : 점프 투 파이썬
 https://wikidocs.net/book/1
 
 #Git
+
 [깃 끝판왕 강좌] 제대로 파는 GIT & Git Hub : 깃 입문(바쁘시다면 github만이라도 보세요)
 https://youtu.be/1I3hMwQU6GU
 
 #ML
+
 김성범[소장/인공지능 공학연구소] 추천🐳
 https://youtube.com/playlist?list=PLpIPLT0Pf7IoTxTCi2MEQ94MZnHaxrP0j
 
 #Deep learning
+
 Sung kim 모두를 위한 딥러닝 – 딥러닝 기초
 https://youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 CS231n – 딥러닝 입문강의 (github 레포에 자막 있음) 추천🐳
@@ -34,10 +39,12 @@ Transformers -Tutorials : Hugging face tutorial
 https://github.com/NielsRogge/Transformers-Tutorials
 
 #MLOPS
+
 MLOPS seminar series
 https://youtu.be/DeOEuDosH2s
 
 #Youtube
+
 생활코딩(egoing)
 https://www.youtube.com/c/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A91
 기술 스택 입문에 용이하다.
@@ -85,12 +92,14 @@ https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q
 문화, 피칭 영상들
 
 #Seminar
+
 우아한테크코스 테코톡 : backend 지식들을 쉽게 풀어 설명 추천🐳
 -https://youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH
 Skplanet Tacademy : 너무나도 좋은 세미나들 모음 추천 추천🐳
 https://www.youtube.com/c/SKplanetTacademy
 
 #website
+
 Boost Course : Open 강의들 딥러닝, CS, 안드로이드 ,프론트, 백엔드 등 다양한 강의 추천🐳
 https://www.boostcourse.org/opencourse
 Kaggle : Data science competition 추천🐳
@@ -120,6 +129,7 @@ Sprint Seoul
 https://sprintseoul.org/
 
 #blog
+
 다크 프로그래머 : 딥러닝, 영상처리 분야 블로그 추천🐳
 https://darkpgmr.tistory.com/
 Pega Devlog : 시각화 블로그
@@ -140,6 +150,7 @@ https://st-lab.tistory.com/
 http://www.aitimes.kr/
 
 #Repositories
+
 주니어 개발자 취업정보
 https://github.com/jojoldu/junior-recruit-scheduler
 백엔드 면접 대비
@@ -160,6 +171,7 @@ https://github.com/leehosung/awesome-devteam
 https://github.com/hibuz/dev-conf-replay
 
 #Club
+
 Mash UP
 https://mash-up.kr/
 DDD
@@ -168,6 +180,7 @@ Google Developers Student Clubs Korea
 https://sites.google.com/view/gdeveloperskorea/gdsc
 
 #Upcoming Seminar
+
 GitLab Korea mee-up #10 – 깃랩 백엔드 개발자의 일상
 3/29(화) 19:00~21:00
 https://festa.io/events/2161
