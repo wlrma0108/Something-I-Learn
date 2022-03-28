@@ -8,7 +8,9 @@
 
 나도 코팅: 기본문법, 그리고 문법을 활용한 토이 프로젝트
 https://youtu.be/kWiCuklohdY
+
 Wikidocs : 점프 투 파이썬
+
 https://wikidocs.net/book/1
 
 #Git
